@@ -12,7 +12,7 @@ class Test extends StatefulWidget {
 class _TestState extends State<Test> {
 
   late UserCredential userCredential;
-
+   late v =8;
 
   @override
   Widget build(BuildContext context) {
