@@ -40,7 +40,7 @@ dependencies:
   shared_preferences: 
   firebase_core: 
   firebase_storage: 
-  cloud_firestore: 
+  cloud_firestore: ^1.0.1
   firebase_messaging: ^10.0.2
   firebase_auth: ^1.0.1
   google_sign_in: ^5.2.4
