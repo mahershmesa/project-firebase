@@ -16,6 +16,11 @@ class _TestTwoState extends State<TestTwo> {
         body: Column(
           children: [
             colum(),
+            @override
+            void reassemble(){
+              super.reassemble();
+              
+            }
           ],
         ));
   }
